@@ -1,0 +1,49 @@
+h1 {
+  color: orange;
+  font-family: Times;
+  border:5px green;
+  padding:25px;
+  font-size: 50px
+}
+body {
+  background-color: #6495ED;
+}
+p{
+  color: orange;
+  font-family: Times;
+  font-weight: bold;
+  font-size: 20px;
+
+}
+#highlight {
+  color: #000000;
+  font-weight:bolder;
+}
+
+#list {
+  color: #000000;
+  font-weight: bold;
+}
+
+
+.top {
+  background-color: green;
+  float: left;
+}
+
+img {
+  border:3px solid black;
+  width:40%;
+  height:40%;
+  margin-left:150px;
+}
+
+#photo{
+  width:25%;
+  height:25%;
+}
+
+#photo2{
+  width:25%;
+  height:15%;
+}
